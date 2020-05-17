@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search">Search</string>
+    <string name="enter_your_location">Enter Your Location</string>
+    <string name="visibility_6000m">Visibility:6000m</string>
+    <string name="humidity_20">Humidity:20%</string>
+    <string name="cloud_50">Cloud:50%</string>
+    <string name="wind_4km_h">Wind:4km/h</string>
+    <string name="feels_like_26_c">Feels like:26°C</string>
+    <string name="_10_c">10°C</string>
+    <string name="scattered_cloud">Scattered Cloud</string>
+    <string name="_24_c">24°C</string>
+    <string name="london">London</string>
+</resources>
